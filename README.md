@@ -1,2 +1,2 @@
-# Merx merx-sa.netlify.app
+# Merx 
   landing site for client A&A 
